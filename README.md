@@ -19,6 +19,6 @@ PowerShell scripts for generating test files to simplify QA workflows
 ## Requirements
 - PowerShell 7+
 - Execution policy enabled:<br/>
-`Set-ExecutionPolicy RemoteSigned`
+`Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
 - Order.xml file:
  example: [salesreport_zafn_2025-11-17T124156.xml](https://github.com/alles-liebe/Test-Data-Generation-Scripts/blob/main/Order_zafn_7395638020093069.xml)
