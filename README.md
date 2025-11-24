@@ -2,8 +2,8 @@
 PowerShell scripts for generating test files to simplify QA workflows
 
 ## Scripts: 
-- salesreport-generator.ps1
-- salesreport-return-generator.ps1
+- [salesreport-generator.ps1](http://github.com/alles-liebe/test-data-generation-ps-scripts/blob/main/salesreport-generator/salesreport-generator.ps1)
+- [salesreport-return-generator.ps1](https://github.com/alles-liebe/test-data-generation-ps-scripts/blob/main/salesreport-return-generator/salesreport-return-generator.ps1)
 
 ## Features
 **salesreport-generator.ps1:**
